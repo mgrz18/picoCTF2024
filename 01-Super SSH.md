@@ -9,7 +9,7 @@ ssh -l ctf-player titan.picoctf.net -p 60572
 ```
 ## Solución
 
-Solo fue necesario conectarse por SSH con el usuario y la dirección especificada para lograr conseguir la bandera
+Solo fue necesario conectarse por SSH con el usuario, la dirección y el puerto especificados para lograr conseguir la bandera
 
 ```
 czarragar-picoctf@webshell:~$ ssh -l ctf-player titan.picoctf.net -p 60572
