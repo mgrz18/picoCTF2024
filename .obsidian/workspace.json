@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Super SSH.md",
+                "file": "02-Bookmarklet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Super SSH.md",
+                "file": "02-Bookmarklet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Super SSH.md",
+                "file": "02-Bookmarklet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Super SSH.md"
+                "file": "02-Bookmarklet.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "970e26e1ffe0d571",
   "lastOpenFiles": [
+    "01-Super SSH.md",
+    "02-Bookmarklet.md",
     "Plantilla.md",
-    "README.md",
-    "01-Super SSH.md"
+    "README.md"
   ]
 }
