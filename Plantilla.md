@@ -1,5 +1,5 @@
 ## Objetivo
-## Datos de acceso
+## Pistas
 ## Solución
 ## Notas adicionales
 ## Referencias
