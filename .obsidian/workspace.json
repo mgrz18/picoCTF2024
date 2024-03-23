@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dbbfb995d5983a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13-Unminify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Bookmarklet.md",
+                "file": "13-Unminify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Bookmarklet.md",
+                "file": "13-Unminify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Bookmarklet.md"
+                "file": "13-Unminify.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "970e26e1ffe0d571",
+  "active": "8dbbfb995d5983a3",
   "lastOpenFiles": [
-    "01-Super SSH.md",
     "02-Bookmarklet.md",
+    "13-Unminify.md",
+    "01-Super SSH.md",
     "Plantilla.md",
     "README.md"
   ]
